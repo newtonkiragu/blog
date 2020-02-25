@@ -1,8 +1,6 @@
 services:
-  node:
-    image: "node:13.7"
-  ruby:
-    image: "ruby:2.6"
+    - "node:13.7"
+    - "ruby:2.6"
 
 variables:
   JEKYLL_ENV: production
