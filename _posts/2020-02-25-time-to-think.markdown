@@ -7,7 +7,7 @@ img: time_to_think/header.jpeg # Add image post (optional)
 tags: [Blog, Programming, Lifestyle]
 author: # Add name author (optional)
 ---
-### I have time
+### I have time 
 > Time, who has time? If you never take time, how can you ever have time?
 
 It gets to a point in your life where you get a paradigm shift. Suddenly, this new perspective pops into your mind. 
@@ -29,6 +29,6 @@ To come to an informed decision, I had to sit down and asked myself deep and pro
 That inspired me to ask myself even more questions.
  - Is this how Thanos felt as he came up with his decisions to destroy half the human population? I am inevitable.
  
-The solution was quite simple. **You're looking at it**.
+The solution was quite simple. **You're looking at it**😆.
 
 I created a blog. Built with `jekyll` (blog explaining how to create one and deploy coming soon), I decided to come up with a platform where I can write down my thoughts and over share them to the world.
