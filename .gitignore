@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 public/
+node_modules/
+package-lock.json
+vendor/
+.idea/

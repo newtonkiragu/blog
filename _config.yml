@@ -1,26 +1,47 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Example Jekyll site using GitLab Pages
-email: your-email@domain.com
+title: My personal blog - Newton Karanu
+email: karanunewton4@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/jekyll" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-gitlab_username:  pages
+  I am human. I speak code. I learn, and once I do, I strive to teach what I have learnt.
+permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Outputting
-permalink: /:categories/:year/:month/:day/:title
+# Author settings
+author: Newton Karanu # add your name
+author-pic: newton.jpeg
+about-author: I’m a fullstack software developer who loves coffee, travel, adventure, poetry, photography and blogging.
+
+# Contact links
+email: 'karanunewton4@gmail.com' # Add your Email address
+phone: '+254714895623' # Add your Phone number
+website: 'newtonkaranu.me' # Add your website, do not add http://
+linkedin: 'newton-kiragu' # Add your Linkedin handle
+github: 'newtonkiragu' # Add your Github handle
+twitter: '@KiraguNewton' # Add your Twitter handle
+facebook: 'karanu.newton' # Add your Facebook handle
+instagram: 'karanu.newton' # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: 'newtonkaranu-me' # Add your discus identifier
+
+# Tracker
+analytics: 'UA-133342901-1' # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-exclude: ["README.md"]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/", "vendor"]
