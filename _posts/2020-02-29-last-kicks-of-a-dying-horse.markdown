@@ -12,9 +12,10 @@ I have a bug in my code. It is driving me crazy. I can't view the source code. I
 
 I don't even know where the bug is and what is the nature of the bug. Is it in the code, will I find it in the compiled binary files? is it a runtime error? I wish I could be able to stop ad restart my servers, Only, these servers can never be restarted once they are stopped.
 
-You see, I don't know a lot. All I know is when it was introduced, and the nature of the bug. It drains a lot of the ram, it is constantly running in the background. Once in a while, randomly, it throws warnings and errors.
+You see, I don't know a lot. All I know is when it was introduced, and the nature of the bug. It drains a lot of the RAM, it is constantly running in the background. Once in a while, randomly, it throws warnings and errors.
 
-> Life seems bleak
+> Life seems bleak.
+While I was learning to live, we all were living a lie.
 
 There's not much hope to go round.
 The much that is going on is a lot of over thinking. Stressing over lots of things. Worrying a lot. There was a point in time where I never used to worry. I'd take it easy. There wasn't so much tension in my life. Things were never that serious.
