@@ -20,11 +20,11 @@ While I was learning to live, we all were living a lie.
 There's not much hope to go round.
 The much that is going on is a lot of over thinking. Stressing over lots of things. Worrying a lot. There was a point in time where I never used to worry. I'd take it easy. There wasn't so much tension in my life. Things were never that serious.
 
-Then I woke up one day, and my life stated crumbling before my very eyes. It started slowly at first. Like a chain of dominoes that soon turned into an avalanche. 
+Then I woke up one day, and my life started crumbling before my very eyes. It started slowly at first. Like a chain of dominoes that soon turned into an avalanche. 
 
 I thought to myself, this is the time to take things seriously.
 It wasn't. 
-Taking things seriously made them look worse t than they seemed. 
+Taking things seriously made them look worse than they seemed. 
 
 Then I told myself, you've gone down this low, surely there no way to go but up. 
 I have never been so wrong.
