@@ -5,7 +5,7 @@ date: 2020-02-29 18:57:20 +0300
 description: I have a bug in my code. It is driving me crazy. I can't view the source code. I can't see any dependencies. 
 img: last_kicks_of_a_dying_horse/header.jpeg
 tags: [Lifestyle]
-category: [Philosophy]
+category: [Lifestyle]
 author: # Add name author (optional)
 ---
 I have a bug in my code. It is driving me crazy. I can't view the source code. I can't see any dependencies and I can't run `git blame` to see who introduced the bug.
