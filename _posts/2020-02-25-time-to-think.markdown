@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time to Think
+title: Time to Think.
 date: 2020-02-25 04:57:20 +0300
 description: It gets to a point in your life where you get a paradigm shift. Suddenly, this new perspective pops into your mind.
 img: time_to_think/header.jpeg # Add image post (optional)

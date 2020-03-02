@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last Kicks of a Dying Horse
+title: Last Kicks of a Dying Horse.
 date: 2020-02-29 18:57:20 +0300
 description: I have a bug in my code. It is driving me crazy. I can't view the source code. I can't see any dependencies. 
 img: last_kicks_of_a_dying_horse/header.jpeg
