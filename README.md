@@ -5,6 +5,4 @@
 
 My Personal Blog.  View it live at https://newtonkaranu.me/blog/
 
-[Learn more about GitLab Pages](https://pages.gitlab.io) or read the the [official GitLab Pages documentation](https://docs.gitlab.com/ce/user/project/pages/).
-
 ---
