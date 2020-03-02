@@ -4,7 +4,7 @@ title: How to create your blog using Jekyll and GitLab CI or Github Pages.
 date: 2020-02-29 23:05:20 +0300
 description: Well, I kinda promised, didn't I? That I would share instructions on how to create and deploy your blog using `gitlab`?
 img: how_to_create_your_own_blog/header1.jpg # coming soon
-tags: [Programming]
+tags: [Programming, Jekyll, Ruby]
 category: [Programming]
 author: # Add name author (optional)
 ---
