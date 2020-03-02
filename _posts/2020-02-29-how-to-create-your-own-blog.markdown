@@ -8,7 +8,7 @@ tags: [Programming, Jekyll, Ruby]
 category: [Programming]
 author: # Add name author (optional)
 ---
-Well, I kinda promised, didn't I? That I would share instructions on how to create and deploy your [Jekyll](https://jekyllrb.com) blog using [GitLab](https://gitlab.com)? Incase you didn't know, jekyll is a static site generator built with `Ruby` while gitlab is a site used to host projects created with `git`.
+Well, I kinda promised, didn't I? Right 👉 [here](https://newtonkaranu.me/blog/time-to-think/), that I would share instructions on how to create and deploy your [Jekyll](https://jekyllrb.com) blog using [GitLab](https://gitlab.com)? Incase you didn't know, jekyll is a static site generator built with `Ruby` while gitlab is a site used to host projects created with `git`.
 
 ### Prerequisites
 There are a couple of things you need to install first before you can start using jekyll. Since I ❤️ the terminal, most of the links to the prerequisites and my instructions will be terminal based.
