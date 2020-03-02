@@ -59,7 +59,7 @@ print('I "said" do not touch this.')
 {% endhighlight %}
 
 4. Repeat step 2.
-5. Convert the code written to python3 with backward compatibility (_is this even a thing?_).
+5. Convert the code written to python3 with backward compatibility (_is this even a real thing?_).
 
 {% highlight python %}
 # example1.py (python3 with backword compatibility i.e can be run with python2 as well)
