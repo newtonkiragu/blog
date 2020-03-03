@@ -2,7 +2,7 @@
 layout: post
 title: Keep It Simple.
 date: 2020-03-03 01:05:20 +0300
-description: Life is real, only then, when 'I am'
+description: Life is real, only then, when 'I am'.
 img: keep_it_simple/header.jpg # Add image post (optional)
 tags: [Lifestyle]
 category: [Lifestyle]
