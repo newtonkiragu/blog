@@ -2,7 +2,7 @@
 layout: post
 title: Beginning of the end.
 date: 2020-03-04 11:39:20 +0300
-description: I have no emotions of my own. # Add post description (optional)
+description: You cannot relate unless you have ever been. # Add post description (optional)
 img: begining_of_the_end/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
