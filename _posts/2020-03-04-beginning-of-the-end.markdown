@@ -24,7 +24,7 @@ And the rains no longer wash away your pain <br/>
 People seem all out to get you <br/>
 And the pain is unbearable <br/>
 
-at first you don’t feel it <br/>
+At first you don’t feel it <br/>
 It creeps up on you so slowly you do not notice it <br/>
 As tears roll down your face <br/>
 You finally feel it <br/>

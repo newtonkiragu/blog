@@ -15,7 +15,7 @@ It was a nice Morning, you know, the one that you wake up psyched up. Those days
 
 ### Learn Python the hard way
 I already know some bit of programming, like a tiny drop in a vast ocean 😅. I always feel like a fraud because there is so much more that I need to learn, and not so much time and space to learn it. 
-So I picked up a book called learn python the hard way, deciding to have `shoshin`, the biginner's mindset as I go through the book and practice and learn.
+So I picked up a book called learn python the hard way, deciding to have `shoshin`, the beginner's mindset as I go through the book and practice and learn.
 
 My plan is simple, having only four steps to it.
 
