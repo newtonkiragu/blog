@@ -1,0 +1,58 @@
+---
+layout: post
+title: Vanilla.
+date: 2020-03-11 05:20:20 +0300
+description: I will be forever grateful to you, for showing me the ropes, but not giving me enough to hang myself with.
+img: vanilla/header.jpg # Add image post (optional)
+tags: [Lifestyle]
+category: [Lifestyle]
+author: # Add name author (optional)
+---
+> Did you know vanilla is a spanish word that translates simply to "little pod"?
+
+While learning how to code, one of my mentors, I always loved how he was able to get his ideas across to people while being very plain, told me, "You need to learn two things son, 1. Vanilla JS. 2. Stay frosty." I thought he had had too much ice cream.
+I soon learnt that he hadn't had too much ice cream and instead, taught me to first learn how to write plain `JavaScript` and to stay cool regardless of the situation.
+
+Well, from my experience, easier said than done. You  see, I am from a very diverse family. Things were never plain, I had, and still have, so many shadows that I need to overcome. I look upto my brothers and sisters (I have so many 😅). They have made it so far in life. 
+Next to them, I feel like a phony. You know, fake it till you make it. They seem to have their lives figured out, stable income, stable job, nice families (or nice single lives) and there I am. 
+
+I love diversity. I wanna learn everything there is to learn, I want to learn the broad skills as opposed to the specific skills. 
+To give you an example, I wen't home to my momma recently and found that my dogs (Rex and Survivor) were sleeping on cold cement. I am not a carpenter. But I so wanted to enure that they had a platform that they could sleep in where they would be comfortable, come rain come shine.
+I was useless to them simply because I could not be able to construct a simple contraption that would solve their problem.
+
+I tell my friends I want to study, professionally, things like music and psychology (I need to understand myself and others) and of course computer science, software engineering, wood work, masonry. You name it.
+You know, I have my life all over the place and it needs figuring out. I was recently told I am gambling with my life and that time is running out for me. 
+
+> Time is what no man has guaranteed and you will soon realise you are alone in your space while the rest are ahead of you (I am not saying we are in a competition but that is just life).
+
+It stung, a lot, but then again, it is true. Who has time? I thought to myself, I seem to not have a direction simply because I do not share my thoughts well enough for people to understand where I want to head or what I want to do with the rest of my life. 
+In all honesty, I am not sure what I want to do with the rest of my life. Currently, and for a a long time, what has always appealed to me is the life of solitude. A cabin in the woods with a dog by my side and the world as my oyster.
+
+In the world we live in, and due to the species I was born in (humans are very social beings), well, it kind of goes against my plans don't you think? 
+I like the feeling of solitude and being left to my own thoughts and devices, but then no man is an island (If I ever get a son, Norman is his name). Cause time waits for no man😂😂.
+
+The point I am trying to drive home is, I am not ever sure of what I am doing, I can second guess myself 100 times to come up with 1 solution. When I discover that my solution is awesome, google tells you meh 🥱, been there, done that. 
+Both in coding and in real life. You can refactor your code to an infinite number of times and yet there is someone who will come and do it in a better and shorter period in time.
+
+While watching Shark tank and KCB Lions den, I learnt that, I might be wrong though, smart investors consider the idea, then invest in the people.
+
+> I am not afraid of dying, I am afraid of living. I’m asking for simplicity. For purity and ease of choice and no pressure.
+> See, when you mess things up, you learn for the next time. It is when people compliment you that you’re in trouble. That means they expect you to keep it up.
+
+We are humans, we mess things up a lot. A tonne and then some. If you want to be sorry, you can be sorry for the rest of your life and it still won't be enough. 
+There’s so much more to life than simply ‘getting by.’  
+And if you’re ready to draw a line in the sand and STOP accepting the life you’ve built and create a life that makes you ecstatic to wake up every morning, then keep reading because I may be able to help make that a reality.
+I listen to a diverse genre of music. From country, to HipHop, to metal, to indie, to mariachi. Music is said to be the windows to your soul, that and your eyes. 
+We, humans, seem more superior simply because we can think about our own thoughts. Well, I get boring sometimes while watching a movie then pause it to note down some wise saying or cool phrase.
+
+Look at me, I am rambling again. Point is, while listening to J.Cole, Kevin's heart, I liked the last words that were said.
+
+>Hey man, look, nobody's perfect, and you're only human. Learn from it man, just learn from it.
+
+Thus, I am going to make a lot of mistakes, and learn a lot in the process🤗. _It is not a marathon, it is a sprint_. I only hope to make some meaning out of it in the end🤔.
+
+> Up in the cabinet, <br/>
+  Imagine a baby reaching his hands up to grab it, <br/>
+  A pipe has burst in heaven, <br/>
+  And got to leaking out blessings, <br/>
+  Reaching my hands up to grab it. <br/>
