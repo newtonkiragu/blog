@@ -88,4 +88,6 @@ Take a deep breath and sail into the unknown. You never know what you might find
 ### Conclusion.
 Don't be afraid to take a leap of faith. Becoming a writer is not an impossible task. Once you put your mind to it, it becomes a habit and second nature. You get better at it, you learn better phrases to use, how to better indulge, entertain and captivate your readers. How to enlighten them.
 
-Doesn't it feel better to make something than it does to critique it? Once you have faced the danger, I'll bet that something was gained. All it takes is the first step. 
+Doesn't it feel better to make something than it does to critique it? Once you have faced the danger, I'll bet that something was gained. 
+
+All it takes is the first step. 
