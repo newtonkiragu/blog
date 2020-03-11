@@ -2,7 +2,7 @@
 layout: post
 title: Becoming a Writer.
 date: 2020-03-11 06:23:20 +0300
-description: I will be forever grateful to you, for showing me the ropes, but not giving me enough to hang myself with.
+description: Remember, by sharing your thoughts onto the world, you have done an incredible feat that some people only ever dream about (I used to be part of that "some people").
 img: becoming_a_writer/header.jpeg # Add image post (optional)
 tags: [Lifestyle]
 category: [Lifestyle]
