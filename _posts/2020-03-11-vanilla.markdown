@@ -10,7 +10,11 @@ author: # Add name author (optional)
 ---
 > Did you know vanilla is a spanish word that translates simply to "little pod"?
 
-While learning how to code, one of my mentors, I always loved how he was able to get his ideas across to people while being very plain, told me, "You need to learn two things son, 1. Vanilla JS. 2. Stay frosty." I thought he had had too much ice cream.
+While learning how to code, one of my mentors, I always loved how he was able to get his ideas across to people while being very plain, told me, "You need to learn two things son, 
+1. Vanilla JS. 
+2. Stay frosty." 
+
+I thought he had had too much ice cream.
 I soon learnt that he hadn't had too much ice cream and instead, taught me to first learn how to write plain `JavaScript` and to stay cool regardless of the situation.
 
 Well, from my experience, easier said than done. You  see, I am from a very diverse family. Things were never plain, I had, and still have, so many shadows that I need to overcome. I look upto my brothers and sisters (I have so many 😅). They have made it so far in life. 
