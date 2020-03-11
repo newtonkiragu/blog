@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The lost sailor.
+title: The Lost Sailor.
 date: 2020-03-02 10:32:20 +0300
 description: I have no emotions of my own. # Add post description (optional)
 img: the_lost_sailor/header.jpeg # Add image post (optional)
