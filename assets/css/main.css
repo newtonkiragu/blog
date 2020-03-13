@@ -1,3 +1,33 @@
+/* Style the tab */
+.tab {
+  display: flex;
+  overflow: hidden;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: mediumpurple;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: rgb(128,0,128, .5);
+}
+
 .highlight {
   background-color: #faf9f9;
   -webkit-border-radius: 3px;
