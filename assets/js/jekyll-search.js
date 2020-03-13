@@ -1,11 +1,11 @@
-(function e (t, n, r) { function s (o, u) { if (!n[o]) { if (!t[o]) { var a = typeof require === 'function' && require; if (!u && a) return a(o, !0); if (i) return i(o, !0); throw new Error("Cannot find module '" + o + "'") } var f = n[o] = {exports: {}}; t[o][0].call(f.exports, function (e) { var n = t[o][1][e]; return s(n || e) }, f, f.exports, e, t, n, r) } return n[o].exports } var i = typeof require === 'function' && require; for (var o = 0; o < r.length; o++)s(r[o]); return s })({1: [function (require, module, exports) {
+(function e (t, n, r) { function s (o, u) { if (!n[o]) { if (!t[o]) { let a = typeof require === 'function' && require; if (!u && a) return a(o, !0); if (i) return i(o, !0); throw new Error("Cannot find module '" + o + "'") } let f = n[o] = {exports: {}}; t[o][0].call(f.exports, function (e) { let n = t[o][1][e]; return s(n || e) }, f, f.exports, e, t, n, r) } return n[o].exports } let i = typeof require === 'function' && require; for (let o = 0; o < r.length; o++)s(r[o]); return s })({1: [function (require, module, exports) {
   'use strict'
   module.exports = {
     load: load
   }
 
   function load (location, callback) {
-    var xhr = getXHR()
+    let xhr = getXHR()
     xhr.open('GET', location, true)
     xhr.onreadystatechange = createStateChangeListener(xhr, callback)
     xhr.send()
@@ -37,14 +37,14 @@
         return new OptionsValidator(params)
       }
 
-      var requiredOptions = params.required
+      let requiredOptions = params.required
 
       this.getRequiredOptions = function () {
         return requiredOptions
       }
 
       this.validate = function (parameters) {
-        var errors = []
+        let errors = []
         requiredOptions.forEach(function (requiredOptionName) {
           if (parameters[requiredOptionName] === undefined) {
             errors.push(requiredOptionName)
@@ -71,11 +71,11 @@
       setOptions: setOptions
     }
 
-    var FuzzySearchStrategy = require('./SearchStrategies/FuzzySearchStrategy')
-    var LiteralSearchStrategy = require('./SearchStrategies/LiteralSearchStrategy')
+    let FuzzySearchStrategy = require('./SearchStrategies/FuzzySearchStrategy')
+    let LiteralSearchStrategy = require('./SearchStrategies/LiteralSearchStrategy')
 
-    var data = []
-    var opt = {}
+    let data = []
+    let opt = {}
     opt.fuzzy = false
     opt.limit = 10
     opt.searchStrategy = opt.fuzzy ? FuzzySearchStrategy : LiteralSearchStrategy
@@ -107,8 +107,8 @@
     }
 
     function addArray (_data) {
-      var added = []
-      for (var i = 0; i < _data.length; i++) {
+      let added = []
+      for (let i = 0; i < _data.length; i++) {
         if (isObject(_data[i])) {
           added.push(addObject(_data[i]))
         }
@@ -132,9 +132,9 @@
     }
 
     function findMatches (data, crit, strategy, opt) {
-      var matches = []
-      for (var i = 0; i < data.length && matches.length < opt.limit; i++) {
-        var match = findMatchesInObject(data[i], crit, strategy, opt)
+      let matches = []
+      for (let i = 0; i < data.length && matches.length < opt.limit; i++) {
+        let match = findMatchesInObject(data[i], crit, strategy, opt)
         if (match) {
           matches.push(match)
         }
@@ -143,7 +143,7 @@
     }
 
     function findMatchesInObject (obj, crit, strategy, opt) {
-      for (var key in obj) {
+      for (let key in obj) {
         if (!isExcluded(obj[key], opt.exclude) && strategy.matches(obj[key], crit)) {
           return obj
         }
@@ -151,10 +151,10 @@
     }
 
     function isExcluded (term, excludedTerms) {
-      var excluded = false
+      let excluded = false
       excludedTerms = excludedTerms || []
-      for (var i = 0; i < excludedTerms.length; i++) {
-        var excludedTerm = excludedTerms[i]
+      for (let i = 0; i < excludedTerms.length; i++) {
+        let excludedTerm = excludedTerms[i]
         if (!excluded && new RegExp(term).test(excludedTerm)) {
           excluded = true
         }
@@ -171,12 +171,12 @@
         if (typeof string !== 'string' || typeof crit !== 'string') {
           return false
         }
-        var fuzzy = fuzzyFrom(crit)
+        let fuzzy = fuzzyFrom(crit)
         return !!fuzzy.test(string)
       }
 
       function fuzzyFrom (string) {
-        var fuzzy = string
+        let fuzzy = string
               .trim()
               .split('')
               .join('.*?')
@@ -206,7 +206,7 @@
       setOptions: setOptions
     }
 
-    var options = {}
+    let options = {}
     options.pattern = /\{(.*?)\}/g
     options.template = ''
     options.middleware = function () {}
@@ -221,7 +221,7 @@
 
     function compile (data) {
       return options.template.replace(options.pattern, function (match, prop) {
-        var value = options.middleware(prop, data[prop], options.template)
+        let value = options.middleware(prop, data[prop], options.template)
         if (value !== undefined) {
           return value
         }
@@ -233,7 +233,7 @@
     ;(function (window, document, undefined) {
       'use strict'
 
-      var options = {
+      let options = {
         searchInput: null,
         resultsContainer: null,
         json: [],
@@ -245,21 +245,21 @@
         exclude: []
       }
 
-      var requiredOptions = ['searchInput', 'resultsContainer', 'json']
+      let requiredOptions = ['searchInput', 'resultsContainer', 'json']
 
-      var templater = require('./Templater')
-      var repository = require('./Repository')
-      var jsonLoader = require('./JSONLoader')
-      var optionsValidator = require('./OptionsValidator')({
+      let templater = require('./Templater')
+      let repository = require('./Repository')
+      let jsonLoader = require('./JSONLoader')
+      let optionsValidator = require('./OptionsValidator')({
         required: requiredOptions
       })
-      var utils = require('./utils')
+      let utils = require('./utils')
 
   /*
     Public API
   */
       window.SimpleJekyllSearch = function SimpleJekyllSearch (_options) {
-        var errors = optionsValidator.validate(_options)
+        let errors = optionsValidator.validate(_options)
         if (errors.length > 0) {
           throwError('You must specify the following required options: ' + requiredOptions)
         }
@@ -311,8 +311,8 @@
       function registerInput () {
         options.searchInput.addEventListener('keyup', function (e) {
           emptyResultsContainer()
-          var key = e.which
-          var query = e.target.value
+          let key = e.which
+          let query = e.target.value
           if (isWhitelistedKey(key) && isValidQuery(query)) {
             render(repository.search(query))
           }
@@ -323,7 +323,7 @@
         if (results.length === 0) {
           return appendToResultsContainer(options.noResultsText)
         }
-        for (var i = 0; i < results.length; i++) {
+        for (let i = 0; i < results.length; i++) {
           appendToResultsContainer(templater.compile(results[i]))
         }
       }
@@ -347,8 +347,8 @@
     }
 
     function merge (defaultParams, mergeParams) {
-      var mergedOptions = {}
-      for (var option in defaultParams) {
+      let mergedOptions = {}
+      for (let option in defaultParams) {
         mergedOptions[option] = defaultParams[option]
         if (mergeParams[option] !== undefined) {
           mergedOptions[option] = mergeParams[option]
