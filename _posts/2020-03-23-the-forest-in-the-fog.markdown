@@ -6,7 +6,6 @@ description: Web Workers are, undoubtedly, the coolest feature to stumble upon i
 img: the_forest_in_the_fog/header.png # Add image post (optional)
 tags: [Programming, JavaScript]
 category: [Programming]
-author: # Add name author (optional)
 ---
 `This entire blog, especially the title and the context below, is non-normative.`
 

@@ -6,7 +6,6 @@ description: I have no emotions of my own. # Add post description (optional)
 img: the_lost_sailor/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
-author: # Add name author (optional)
 ---
 
 I have no emotions of my own, <br/>

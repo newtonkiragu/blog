@@ -6,7 +6,6 @@ description: Just read everything as if I’m smiling and I have a mischievous l
 img: empty_before_you_fill/header.jpeg # coming soon
 tags: [Programming, Python]
 category: [Programming]
-author: # Add name author (optional)
 ---
 > You will have a hard time learning from someone with more knowledge if you already know everything.
 

@@ -6,7 +6,6 @@ description: Life is real, only then, when 'I am'.
 img: keep_it_simple/header.jpeg # Add image post (optional)
 tags: [Lifestyle]
 category: [Lifestyle]
-author: # Add name author (optional)
 ---
 > Life is real, only then, when 'I am'.
 

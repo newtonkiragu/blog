@@ -6,7 +6,6 @@ description: It gets to a point in your life where you get a paradigm shift. Sud
 img: time_to_think/header.jpeg # Add image post (optional)
 tags: [Programming, Lifestyle]
 category: [Lifestyle]
-author: # Add name author (optional)
 ---
 ### I have time 
 > Time, who has time? If you never take time, how can you ever have time?

@@ -6,7 +6,6 @@ description: You cannot relate unless you have ever been. # Add post description
 img: begining_of_the_end/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
-author: # Add name author (optional)
 ---
 There is beauty in hitting rock bottom <br/>
 The pain that flows through your body <br/>

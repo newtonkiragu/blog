@@ -6,7 +6,6 @@ description: Well, I kinda promised, didn't I? That I would share instructions o
 img: how_to_create_your_own_blog/header1.jpg # coming soon
 tags: [Programming, Jekyll, Ruby]
 category: [Programming]
-author: # Add name author (optional)
 ---
 Well, I kinda promised, didn't I? Right 👉 [here](https://newtonkaranu.me/blog/time-to-think/), that I would share instructions on how to create and deploy your [Jekyll](https://jekyllrb.com) blog using [GitLab](https://gitlab.com)? Incase you didn't know, jekyll is a static site generator built with `Ruby` while gitlab is a site used to host projects created with `git`.
 

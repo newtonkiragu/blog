@@ -6,7 +6,6 @@ description: I will be forever grateful to you, for showing me the ropes, but no
 img: vanilla/header.jpg # Add image post (optional)
 tags: [Lifestyle]
 category: [Lifestyle]
-author: # Add name author (optional)
 ---
 > Did you know vanilla is a spanish word that translates simply to "little pod"?
 

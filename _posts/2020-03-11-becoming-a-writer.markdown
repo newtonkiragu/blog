@@ -6,7 +6,6 @@ description: Remember, by sharing your thoughts onto the world, you have done an
 img: becoming_a_writer/header.jpeg # Add image post (optional)
 tags: [Lifestyle]
 category: [Lifestyle]
-author: # Add name author (optional)
 ---
 ### Introduction.
 I felt like this one needed an introduction, a place to commemorate where it all begun.
