@@ -43,5 +43,24 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      title: # some catchy title
+      date: 2017-08-20 13:32:20 +0300
+      description: # Add post description (optional)
+      img: # Add image post (optional)
+      tags: # Add tags in list [SomeRandomTagName]
+      category: # Add categories in list [SomeRandomTagName]
+    posts:
+      layout: post
+      title:
+      date:
+      description:
+      img:
+      tags:
+      category:
+
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/", "vendor", ".idea/"]
