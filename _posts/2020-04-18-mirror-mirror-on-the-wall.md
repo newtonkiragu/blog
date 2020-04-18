@@ -7,19 +7,15 @@ img: mirror_mirror_on_the_wall/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
 ---
-> I'll get used to it but these last months <br/>
-I wavered away from me <br/>
-Without realizing of what was happening to me <br/>
-And it arrived without seeing it come <br/>
-Forced notoriety, I take a lot of pleasure in it <br/>
-Even if I'm losing my freedom <br/>
-Wanting to succeed too much, the pressure of success <br/>
-The people, them and us, what are we going to become? <br/>
+> The flow of this world <br/>
+  Follows laws so great we can’t even imagine them <br/>
+  Learn that flow, decompose it and reconstruct it <br/>
+  That is what living is <br/>
 
-I used to recognise myself  <br/>
-It's funny how reflections change <br/>
-When we're becoming something else <br/>
-I think it's time to walk away <br/>
+I used to recognise myself, <br/>
+It's funny how reflections change, <br/>
+When we're becoming something else, <br/>
+I think it's time to walk away. <br/>
 
 I used to hate how I looked like in the mirror, <br/>
 Thus because I knew who I was, <br/>
@@ -40,3 +36,12 @@ There is no hope, no peace, no love, <br/>
 Only despair, pain, torment, and nothingness. <br/>
 Unable to even hate, simply existing. <br/>
 I wish to understand emotions, or get rid of them for good <br/>
+
+> I'll get used to it but these last months <br/>
+I wavered away from me <br/>
+Without realizing of what was happening to me <br/>
+And it arrived without seeing it come <br/>
+Forced notoriety, I take a lot of pleasure in it <br/>
+Even if I'm losing my freedom <br/>
+Wanting to succeed too much, the pressure of success <br/>
+The people, them and us, what are we going to become? <br/>
