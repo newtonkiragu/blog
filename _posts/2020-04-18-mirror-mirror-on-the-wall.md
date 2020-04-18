@@ -2,7 +2,7 @@
 layout: post
 title: Mirror mirror on the wall.
 date: 2020-04-18 17:40:20 +0300
-description: Who is fairest of them all? To whit the mirror replied, "He who has found oneself."
+description: Who is fairest of them all? To whit the mirror replied, He who has found oneself.
 img: mirror_mirror_on_the_wall/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
