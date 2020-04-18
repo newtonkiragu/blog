@@ -2,8 +2,8 @@
 layout: post
 title: Mirror mirror on the wall.
 date: 2020-04-18 17:40:20 +0300
-description: It gets to a point in your life where you get a paradigm shift. Suddenly, this new perspective pops into your mind.
-img: mirror_mirror_on_the_wall/header1.jpeg # Add image post (optional)
+description: Who is fairest of them all? To whit the mirror replied, "He who has found oneself."
+img: mirror_mirror_on_the_wall/header.jpeg # Add image post (optional)
 tags: [Lifestyle, Poetry]
 category: [Lifestyle, Poetry]
 ---
