@@ -15,7 +15,7 @@ I'm Newton Karanu. You probaby know that already 😅. I am a full-stack softwar
 Over the years, I have got to learn a couple of programming languages: Python, Java, JavaScript, Go, R, HTML(Yes, it is here), CSS, PhP.
 During that period in time, I have got to build a couple of projects and most importantly, meet awesome people.
 
-This blog answers two questions, [Why am I a software developer](#why-am-i-a-software-developer). [How have I gotten to where I have](#how-have-i-gotten-to-where-i-have). 
+This blog answers two questions, [Why am I a software developer](#why-am-i-a-software-developer). [How have I gotten to where I have](https://newtonkaranu.me/blog/my-journey-as-a-software-developer-part2/#how-have-i-gotten-to-where-i-have). 
 This might give you some insight on your career journey, or generally entertain you.
 
 Recently, I got to speak with one of my friends (let's call him Malcolm), we studied in the same highschool. Though he was a class ahead of me, I think. More on this later.
