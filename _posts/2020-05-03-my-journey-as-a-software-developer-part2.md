@@ -9,7 +9,7 @@ category: [Lifestyle, Programming]
 ---
 Hello World Part 2, with a little tweaks here and there and more updates.
 
-Find part 1 here if you're yet to read it 👉 [My Journey as a Software Developer human so far (Part 1)](https://newtonkaranu.me/blog/my-journey-as-a-software-developer)
+Find part 1 here if you're yet to read it 👉 [My Journey as a Software Developer human so far (Part 1)](https://newtonkaranu.me/blog/my-journey-as-a-software-developer/#why-am-i-a-software-developer)
 
 Let's get right into it, shall we?
 

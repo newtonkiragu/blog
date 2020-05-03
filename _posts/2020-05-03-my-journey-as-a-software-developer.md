@@ -15,15 +15,19 @@ I'm Newton Karanu. You probaby know that already 😅. I am a full-stack softwar
 Over the years, I have got to learn a couple of programming languages: Python, Java, JavaScript, Go, R, HTML(Yes, it is here), CSS, PhP.
 During that period in time, I have got to build a couple of projects and most importantly, meet awesome people.
 
-This blog answers two questions, [Why am I a software developer](#why-am-i-a-software-developer). [How have I gotten to where I have](https://newtonkaranu.me/blog/my-journey-as-a-software-developer-part2/#how-have-i-gotten-to-where-i-have). 
+This blog answers two questions, [Why am I a software developer?](#why-am-i-a-software-developer). [How have I gotten to where I have?](https://newtonkaranu.me/blog/my-journey-as-a-software-developer-part2/#how-have-i-gotten-to-where-i-have){:target="_blank"}. 
 This might give you some insight on your career journey, or generally entertain you.
 
 Recently, I got to speak with one of my friends (let's call him Malcolm), we studied in the same highschool. Though he was a class ahead of me, I think. More on this later.
 He is a dev as well and before we even begun speaking, I had stalked his github and made some contributions to his repo. His code is so clean and modular.
 Plus, he tries to remove ambiguity in his work. How? Here is an example.
 
-Consider a program that scaffolds a project for you. I contributed to one such project (scaffolds a flask app for you. 
-Check it out here 👉 [Flask App Structure (using blueprints)](https://github.com/newtonkiragu/flask-structure))
+Consider a program that scaffolds a project for you. I have contributed to two such projects: <br /> 
+One scaffolds a flask app for you. 
+Check it out here 👉 [Flask App Structure (using blueprints)](https://github.com/newtonkiragu/flask-structure){:target="_blank"}. <br />
+The other scaffolds a project created with express.
+Check it out here 👉 [Express App Structure](https://github.com/newtonkiragu/exp){:target="_blank"}
+
 When getting the name of the project, here is how I approached it.
 
 {% highlight shell %}
