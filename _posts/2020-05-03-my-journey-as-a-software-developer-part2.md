@@ -143,7 +143,9 @@ if (time > 12) {
 if (time > 16) {
   document.write("<b>Good evening!</b>");
 }
-
+if (time > 20) {
+  document.write("<b>I wish you a Good night!</b> <br /> See you on the next one.");
+}
 {% endhighlight %}
 
 
