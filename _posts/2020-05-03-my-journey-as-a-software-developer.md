@@ -86,7 +86,7 @@ Here's a motherboard. That's a ram. Cause I wasn't allowed to touch it, of cours
 then open it up and play doctor with his computer. I think I still have the harddisk bracket somewhere in a drawer. 
 It was so much fun, having this forbidden fruit (How I wish the dell was an apple computer 😅).
 
-There is where it all begun games and movies. Fast forward to highschool. I chose computer studies. 
+There is where it all begun, games and movies. Fast forward to highschool. I chose computer studies. 
 One of my classmates (let's call him Wendo) introduced me to working in the chapel. The upside being that on weekends, we could borrow the chaplain's laptop and use it to create presentations that would be used on Sunday during the service.
 Wendo introduced me to Malcolm, who would show us how to make the slides for the service. At first, we used easy worship. But that was a cracked software, so we resorted to using MS Powerpoint, another cracked software.
 After creating the slides for the service, we would sit down and watch Malcolm create music using FL. I tried and failed successfully.
@@ -94,4 +94,4 @@ Wendo got the hang of that though. Soon, Malcolm started working on an awesome p
 
 TicTacToe.😱 On Powerpoint.😱 Using Visual Basic.😱 I was mind blown. He was able to create a version where you could play against your friends and was working on playing against the computer before he graduated.
 
-Continue reading part 2 👉 [My Journey as a Software Developer human so far (Part 2)](https://newtonkaranu.me/blog/my-journey-as-a-software-developer-part2)
+Continue reading part 2 👉 [My Journey as a Software Developer human so far (Part 2)](https://newtonkaranu.me/blog/my-journey-as-a-software-developer-part2/#how-have-i-gotten-to-where-i-have)
