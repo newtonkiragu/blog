@@ -134,7 +134,7 @@ var time = d.getHours();
 if (time < 12) {
   document.write("<b>Good morning!</b>");
 }
-if (time == 12) {
+if (time === 12) {
   document.write("<b>Go eat lunch!</b>");
 }
 if (time > 12) {
@@ -159,8 +159,14 @@ if (time < 12) {
 if (time > 12) {
   document.write("<b>I wish you a Good afternoon!</b> <br /> See you on the next one.");
 }
-if (time == 12) {
+if (time === 12) {
   document.write("<b> I wish you a Lovely Lunch!</b> <br /> See you on the next one.");
+}
+if (time > 16) {
+  document.write("<b>I wish you a Good evening!</b> <br /> See you on the next one.");
+}
+if (time > 20) {
+  document.write("<b>I wish you a Good night!</b> <br /> See you on the next one.");
 }
 </script>
 
