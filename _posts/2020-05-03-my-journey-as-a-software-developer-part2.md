@@ -124,7 +124,7 @@ private void getTimeFromAndroid() {
 {% endhighlight %}
 
 And in JavaScript:
-PS: this is the code I am using to wish you... up there
+PS: this is the code I am using to wish you...
 
 {% highlight javascript %}
 
